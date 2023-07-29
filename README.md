@@ -26,5 +26,5 @@ be closed to modification but open to extension:
 - calculation modules: contains some needed calculation methods
 
 Description:
-The program starts with running the login module:
+The program starts with running the login module:#
 ![Alt text](/readmeImg/loginLaunch.png "Optional title")
